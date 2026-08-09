@@ -1,6 +1,6 @@
 function checkforuser(){
     console.log("Checking for user");
-    return false;
+    return true;
 }
 
 function registeruser(){
